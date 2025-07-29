@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">30 BBall Drills</string>
+    <string name="drill1">Дриблинг на месте (правая/левая рука)</string>
+    <string name="description1">Стой на месте и веди мяч одной рукой, затем другой. Держи мяч низко
+        и контролируй его кончиками пальцев.
+    </string>
+
+    <string name="drill2">Дриблинг в движении (правая/левая рука)</string>
+    <string name="description2">Двигайся по площадке, ведя мяч одной рукой. Меняй направление и
+        скорость.
+    </string>
+
+    <string name="drill3">Перевод мяча перед собой</string>
+    <string name="description3">Веди мяч одной рукой, затем резко переведи его на другую руку перед
+        собой.
+    </string>
+
+    <string name="drill4">Перевод мяча за спиной</string>
+    <string name="description4">Веди мяч одной рукой, затем переведи его за спиной на другую руку.
+    </string>
+
+    <string name="drill5">Перевод мяча между ног</string>
+    <string name="description5">Веди мяч одной рукой, затем переведи его между ног на другую руку.
+    </string>
+
+    <string name="drill6">"Восьмерка" вокруг ног</string>
+    <string name="description6">Обводи мяч вокруг каждой ноги поочередно, формируя "восьмерку".
+    </string>
+
+    <string name="drill7">Дриблинг с двумя мячами одновременно</string>
+    <string name="description7">Веди два мяча одновременно, по одному в каждой руке.</string>
+
+    <string name="drill8">Дриблинг с закрытыми глазами</string>
+    <string name="description8">Попробуй вести мяч, не глядя на него, чтобы улучшить чувство мяча.
+    </string>
+
+    <string name="drill9">Броски со штрафной линии</string>
+    <string name="description9">Тренируй точность броска со штрафной линии. Сосредоточься на технике
+        и повторении.
+    </string>
+
+    <string name="drill10">Броски с разных точек площадки</string>
+    <string name="description10">Бросай мяч с разных дистанций и углов, чтобы развить
+        универсальность.
+    </string>
+
+    <string name="drill11">Броски после дриблинга</string>
+    <string name="description11">Совмещай дриблинг с броском. Сделай несколько ударов мячом, затем
+        остановись и брось.
+    </string>
+
+    <string name="drill12">Лей-ап (правая/левая рука)</string>
+    <string name="description12">Подбегай к кольцу и бросай мяч одной рукой, отталкиваясь от щита.
+    </string>
+
+    <string name="drill13">"Крюк" (hook shot)</string>
+    <string name="description13">Бросок одной рукой над головой, обычно используется центровыми.
+    </string>
+
+    <string name="drill14">Броски в прыжке (jump shot)</string>
+    <string name="description14">Бросай мяч в высшей точке прыжка.</string>
+
+    <string name="drill15">Передача от груди</string>
+    <string name="description15">Передавай мяч партнеру двумя руками от груди.</string>
+
+    <string name="drill16">Передача с отскоком от пола</string>
+    <string name="description16">Передавай мяч партнеру так, чтобы он отскочил от пола перед ним.
+    </string>
+
+    <string name="drill17">Передача одной рукой</string>
+    <string name="description17">Передавай мяч одной рукой, как при броске.</string>
+
+    <string name="drill18">Передача из-за головы</string>
+    <string name="description18">Передавай мяч двумя руками из-за головы, обычно используется для
+        длинных передач.
+    </string>
+
+    <string name="drill19">Защитная стойка</string>
+    <string name="description19">Стой на полусогнутых ногах, руки в стороны, готовый к движению.
+    </string>
+
+    <string name="drill20">Скольжение в защите (slide)</string>
+    <string name="description20">Двигайся в защитной стойке вправо и влево, не скрещивая ноги.
+    </string>
+
+    <string name="drill21">Выбивание мяча</string>
+    <string name="description21">Попробуй выбить мяч у соперника, не нарушая правил.</string>
+
+    <string name="drill22">Перехват передачи</string>
+    <string name="description22">Предвидь передачу соперника и перехвати мяч.</string>
+
+    <string name="drill23">Прыжки на скакалке</string>
+    <string name="description23">Улучшает координацию, выносливость и работу ног.</string>
+
+    <string name="drill24">Челночный бег</string>
+    <string name="description24">Бегай от одной линии до другой, касаясь линии рукой.</string>
+
+    <string name="drill25">Приседания</string>
+    <string name="description25">Укрепляют мышцы ног.</string>
+
+    <string name="drill26">Отжимания</string>
+    <string name="description26">Укрепляют мышцы рук, груди и плеч.</string>
+
+    <string name="drill27">Планка</string>
+    <string name="description27">Укрепляет мышцы кора.</string>
+
+    <string name="drill28">Подборы мяча</string>
+    <string name="description28">Тренируйся подбирать мяч после броска, как в нападении, так и в
+        защите.
+    </string>
+
+    <string name="drill29">"Лесенка"</string>
+    <string name="description29">Выполняй серию бросков с разных точек, приближаясь или удаляясь от
+        кольца.
+    </string>
+
+    <string name="drill30">Игра 1 на 1</string>
+    <string name="description30">Играй против одного соперника, чтобы применить все навыки на
+        практике.
+    </string>
+    <string name="drill_numb_1">Упражнение 1</string>
+    <string name="drill_numb_2">Упражнение 2</string>
+    <string name="drill_numb_3">Упражнение 3</string>
+    <string name="drill_numb_4">Упражнение 4</string>
+    <string name="drill_numb_5">Упражнение 5</string>
+    <string name="drill_numb_6">Упражнение 6</string>
+    <string name="drill_numb_7">Упражнение 7</string>
+    <string name="drill_numb_8">Упражнение 8</string>
+    <string name="drill_numb_9">Упражнение 9</string>
+    <string name="drill_numb_10">Упражнение 10</string>
+    <string name="drill_numb_11">Упражнение 11</string>
+    <string name="drill_numb_12">Упражнение 12</string>
+    <string name="drill_numb_13">Упражнение 13</string>
+    <string name="drill_numb_14">Упражнение 14</string>
+    <string name="drill_numb_15">Упражнение 15</string>
+    <string name="drill_numb_16">Упражнение 16</string>
+    <string name="drill_numb_17">Упражнение 17</string>
+    <string name="drill_numb_18">Упражнение 18</string>
+    <string name="drill_numb_19">Упражнение 19</string>
+    <string name="drill_numb_20">Упражнение 20</string>
+    <string name="drill_numb_21">Упражнение 21</string>
+    <string name="drill_numb_22">Упражнение 22</string>
+    <string name="drill_numb_23">Упражнение 23</string>
+    <string name="drill_numb_24">Упражнение 24</string>
+    <string name="drill_numb_25">Упражнение 25</string>
+    <string name="drill_numb_26">Упражнение 26</string>
+    <string name="drill_numb_27">Упражнение 27</string>
+    <string name="drill_numb_28">Упражнение 28</string>
+    <string name="drill_numb_29">Упражнение 29</string>
+    <string name="drill_numb_30">Упражнение 30</string>
+</resources>
