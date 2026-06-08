@@ -1,1 +1,182 @@
-
+[
+  {
+    "id": 1,
+    "title": "Дриблинг на месте (правая/левая рука)",
+    "description": "Стой на месте и веди мяч одной рукой, затем другой. Держи мяч низко и контролируй его кончиками пальцев.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_1.gif"
+  },
+  {
+    "id": 2,
+    "title": "Дриблинг в движении (правая/левая рука)",
+    "description": "Двигайся по площадке, ведя мяч одной рукой. Меняй направление и скорость.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_2.gif"
+  },
+  {
+    "id": 3,
+    "title": "Перевод мяча перед собой",
+    "description": "Веди мяч одной рукой, затем резко переведи его на другую руку перед собой.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_3.gif"
+  },
+  {
+    "id": 4,
+    "title": "Перевод мяча за спиной",
+    "description": "Веди мяч одной рукой, затем переведи его за спиной на другую руку.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_4.gif"
+  },
+  {
+    "id": 5,
+    "title": "Перевод мяча между ног",
+    "description": "Веди мяч одной рукой, затем переведи его между ног на другую руку.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_5.gif"
+  },
+  {
+    "id": 6,
+    "title": "\"Восьмерка\" вокруг ног",
+    "description": "Обводи мяч вокруг каждой ноги поочередно, формируя \"восьмерку\".",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_6.gif"
+  },
+  {
+    "id": 7,
+    "title": "Дриблинг с двумя мячами одновременно",
+    "description": "Веди два мяча одновременно, по одному в каждой руке.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_7.gif"
+  },
+  {
+    "id": 8,
+    "title": "Дриблинг с закрытыми глазами",
+    "description": "Попробуй вести мяч, не глядя на него, чтобы улучшить чувство мяча.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_8.gif"
+  },
+  {
+    "id": 9,
+    "title": "Броски со штрафной линии",
+    "description": "Тренируй точность броска со штрафной линии. Сосредоточься на технике и повторении.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_9.gif"
+  },
+  {
+    "id": 10,
+    "title": "Броски с разных точек площадки",
+    "description": "Бросай мяч с разных дистанций и углов, чтобы развить универсальность.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_10.gif"
+  },
+  {
+    "id": 11,
+    "title": "Броски после дриблинга",
+    "description": "Совмещай дриблинг с броском. Сделай несколько ударов мячом, затем остановись и брось.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_11.gif"
+  },
+  {
+    "id": 12,
+    "title": "Лей-ап (правая/левая рука)",
+    "description": "Подбегай к кольцу и бросай мяч одной рукой, отталкиваясь от щита.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_12.gif"
+  },
+  {
+    "id": 13,
+    "title": "\"Крюк\" (hook shot)",
+    "description": "Бросок одной рукой над головой, обычно используется центровыми.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_13.gif"
+  },
+  {
+    "id": 14,
+    "title": "Броски в прыжке (jump shot)",
+    "description": "Бросай мяч в высшей точке прыжка.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_14.gif"
+  },
+  {
+    "id": 15,
+    "title": "Передача от груди",
+    "description": "Передавай мяч партнеру двумя руками от груди.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_15.gif"
+  },
+  {
+    "id": 16,
+    "title": "Передача с отскоком от пола",
+    "description": "Передавай мяч партнеру так, чтобы он отскочил от пола перед ним.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_16.gif"
+  },
+  {
+    "id": 17,
+    "title": "Передача одной рукой",
+    "description": "Передавай мяч одной рукой, как при броске.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_17.gif"
+  },
+  {
+    "id": 18,
+    "title": "Передача из-за головы",
+    "description": "Передавай мяч двумя руками из-за головы, обычно используется для длинных передач.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_18.gif"
+  },
+  {
+    "id": 19,
+    "title": "Защитная стойка",
+    "description": "Стой на полусогнутых ногах, руки в стороны, готовый к движению.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_19.gif"
+  },
+  {
+    "id": 20,
+    "title": "Скольжение в защите (slide)",
+    "description": "Двигайся в защитной стойке вправо и влево, не скрещивая ноги.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_20.gif"
+  },
+  {
+    "id": 21,
+    "title": "Выбивание мяча",
+    "description": "Попробуй выбить мяч у соперника, не нарушая правил.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_21.gif"
+  },
+  {
+    "id": 22,
+    "title": "Перехват передачи",
+    "description": "Предвидь передачу соперника и перехвати мяч.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_22.gif"
+  },
+  {
+    "id": 23,
+    "title": "Прыжки на скакалке",
+    "description": "Улучшает координацию, выносливость и работу ног.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_23.gif"
+  },
+  {
+    "id": 24,
+    "title": "Челночный бег",
+    "description": "Бегай от одной линии до другой, касаясь линии рукой.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_24.gif"
+  },
+  {
+    "id": 25,
+    "title": "Приседания",
+    "description": "Укрепляют мышцы ног.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_25.gif"
+  },
+  {
+    "id": 26,
+    "title": "Отжимания",
+    "description": "Укрепляют мышцы рук, груди и плеч.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_26.gif"
+  },
+  {
+    "id": 27,
+    "title": "Планка",
+    "description": "Укрепляет мышцы кора.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_27.gif"
+  },
+  {
+    "id": 28,
+    "title": "Подборы мяча",
+    "description": "Тренируйся подбирать мяч после броска, как в нападении, так и в защите.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_28.gif"
+  },
+  {
+    "id": 29,
+    "title": "\"Лесенка\"",
+    "description": "Выполняй серию бросков с разных точек, приближаясь или удаляясь от кольца.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_29.gif"
+  },
+  {
+    "id": 30,
+    "title": "Игра 1 на 1",
+    "description": "Играй против одного соперника, чтобы применить все навыки на практике.",
+    "image_url": "https://raw.githubusercontent.com/AlexBuntov/30-BBall-Drills/main/gifs/gif_drill_30.gif"
+  }
+]
